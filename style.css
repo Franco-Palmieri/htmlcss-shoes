@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    background-color: blue;
+    position: relative;
+}
+.container-2{
+    height: 100vh;
+    background-color: cornsilk;
+    position: relative;
+}
+.contained-1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+
+}
