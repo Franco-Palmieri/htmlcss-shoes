@@ -48,3 +48,6 @@ a{
     font-weight: bold;
     color: black;
 }
+.link:last-child{
+    margin-right: 0;
+}
